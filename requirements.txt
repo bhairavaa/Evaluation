@@ -1,0 +1,6 @@
+deepeval
+langchain
+langchain-openai
+pandas
+ipykernel
+portalocker[win32]; sys_platform == "win32"
